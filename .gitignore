@@ -1,5 +1,2 @@
 pretrained_models/
 wav2vec2_checkpoint/
-*.wav
-*.mp3
-*.m4a
